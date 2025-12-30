@@ -18,3 +18,11 @@ A feature-rich command-line calculator built in Python. Supports basic arithmeti
 3. Try: `5 + 3`, `10 ÷ 2`, `√16`, `sin(30)`
 
 ## 📖 Usage Examples
+🧮 Simple Calculator
+➤ 12 + 8
+✅ 12 + 8 = 20.0000
+➤ history
+📋 Calculation History:
+ 1. 12 + 8 = 20.0000
+➤ quit
+👋 Thanks for using Simple Calculator!
